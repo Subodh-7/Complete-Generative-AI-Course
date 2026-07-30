@@ -19,6 +19,10 @@ Complete-Generative-AI-Course/
 ├── .venv/                  # Alternative virtual environment (ignored by Git)
 └── Day 1/                  # Daily learning folders
     └── Variables.ipynb     # Day 1 notebook: Python variables and operators
+└── Day 2/                  # Daily learning folders
+    └── Loops.ipynb         # Day 2 notebook: Control flow and loops
+└── Day 3/                  # Daily learning folders
+    └── Data_Structures.ipynb   # Day 3 notebook: Data structures (lists, tuples, dicts)
 ```
 
 ## Progress Tracker (23 Days)
@@ -26,8 +30,8 @@ Complete-Generative-AI-Course/
 | Day | Topic | Status |
 |-----|-------|--------|
 | 1 | Python Variables and Operators | ✅ Done |
-| 2 | Control Flow and Loops | ⏳ Pending |
-| 3 | Data Structures (Lists, Tuples, Dictionaries) | ⏳ Pending |
+| 2 | Control Flow and Loops | ✅ Done |
+| 3 | Data Structures (Lists, Tuples, Dictionaries) | ✅ Done |
 | 4 | Functions and Modules | ⏳ Pending |
 | 5 | File Handling | ⏳ Pending |
 | 6 | Error Handling | ⏳ Pending |
@@ -56,6 +60,16 @@ Complete-Generative-AI-Course/
 - **Jupyter Notebooks** - Interactive development and experimentation
 - **VS Code** - Code editor
 - **Git** - Version control
+
+## VS Code Configuration Fixes (Completed)
+To restore full IntelliSense, Pylance, and Jupyter notebook code-completion support, we repaired the workspace's VS Code settings:
+
+- Set `python.languageServer` to **Pylance**
+- Enabled **quick suggestions**, **parameter hints**, **hover documentation**, and **inline completions**
+- Configured auto-import and suggestion behavior for smoother coding
+- Restored notebook-specific IntelliSense settings
+
+These changes were applied in `.vscode/settings.json` and the Python language server was restarted, fully re-enabling code completion, auto-import, and documentation assistance.
 
 ## How to Run the Project
 
