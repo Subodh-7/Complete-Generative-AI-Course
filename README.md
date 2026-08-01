@@ -33,7 +33,7 @@ Complete-Generative-AI-Course/
 | 2 | Control Flow and Loops | ✅ Done |
 | 3 | Data Structures (Lists, Tuples, Dictionaries) | ✅ Done |
 | 4 | Functions and Modules | ⏳ Pending |
-| 5 | File Handling | ⏳ Pending |
+| 5 | Functions | ✅ Done |
 | 6 | Error Handling | ⏳ Pending |
 | 7 | Object-Oriented Programming | ⏳ Pending |
 | 8 | Introduction to LangChain | ⏳ Pending |
