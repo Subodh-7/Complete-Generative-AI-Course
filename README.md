@@ -21,6 +21,13 @@ Complete-Generative-AI-Course/
     └── Functions_and_Modules.ipynb  # Day 4: Functions and Modules (⏳ Pending)
 └── Day 5/
     └── Functions.ipynb  # Day 5: Python Functions - Lambda, Map and Filter (✅ Done)
+        ├── Lambda.ipynb
+        ├── Mapsfunction.ipynb
+        └── filterfunction.ipynb
+└── Day 6/
+    └── Modules/       # Day 6: Python Modules and Standard Library (✅ Done)
+        ├── import.ipynb           # Importing modules, packages
+        └── Standardlibrary.ipynb  # Standard library overview
 ```
 
 ## Progress Tracker (23 Days)
@@ -32,8 +39,9 @@ Complete-Generative-AI-Course/
 | 3 | Data Structures (Lists, Tuples, Dictionaries) | ✅ Done |
 | 4 | Functions and Modules | ⏳ Pending |
 | 5 | Functions | ✅ Done |
-| 6 | Error Handling | ⏳ Pending |
-| 7 | Object-Oriented Programming | ⏳ Pending |
+| 6 | Modules and Standard Library | ✅ Done |
+| 7 | Error Handling | ⏳ Pending |
+| 8 | Object-Oriented Programming | ⏳ Pending
 | 8 | Introduction to LangChain | ⏳ Pending |
 | 9 | Prompts and Prompt Templates | ⏳ Pending |
 | 10 | Models (LLMs & Chat Models) | ⏳ Pending |
