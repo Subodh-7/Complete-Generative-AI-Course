@@ -11,18 +11,16 @@ The goal is to track daily progress, document learnings, and provide a reproduci
 ## Folder Structure
 ```
 Complete-Generative-AI-Course/
-├── .gitignore              # Ignores virtual environments, caches, and OS files
-├── README.md               # This file
-├── app.py                  # Entry point for running the project
-├── requirements.txt        # Python dependencies
-├── venv/                   # Local virtual environment (ignored by Git)
-├── .venv/                  # Alternative virtual environment (ignored by Git)
-└── Day 1/                  # Daily learning folders
-    └── Variables.ipynb     # Day 1 notebook: Python variables and operators
-└── Day 2/                  # Daily learning folders
-    └── Loops.ipynb         # Day 2 notebook: Control flow and loops
-└── Day 3/                  # Daily learning folders
-    └── Data_Structures.ipynb   # Day 3 notebook: Data structures (lists, tuples, dicts)
+└── Day 1/
+    └── Variables.ipynb  # Day 1: Python Variables and Operators (✅ Done)
+└── Day 2/
+    └── Loops.ipynb       # Day 2: Control Flow and Loops (✅ Done)
+└── Day 3/
+    └── Data_Structures.ipynb  # Day 3: Data Structures (✅ Done)
+└── Day 4/
+    └── Functions_and_Modules.ipynb  # Day 4: Functions and Modules (⏳ Pending)
+└── Day 5/
+    └── Functions.ipynb  # Day 5: Python Functions - Lambda, Map and Filter (✅ Done)
 ```
 
 ## Progress Tracker (23 Days)
