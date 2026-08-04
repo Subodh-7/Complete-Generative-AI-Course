@@ -36,9 +36,12 @@ Complete-Generative-AI-Course/
     └── File Handling/  # Day 7: File Handling (✅ Done)
         ├── fileoperation.ipynb
         └── filepath.ipynb
+└── Day 8/
+    └── Exception Handling/  # Day 8: Exception Handling (✅ Done)
+        └── exception.ipynb
 ```
 
-## Progress Tracker (23 Days)
+## Progress Tracker (25 Days)
 
 | Day | Topic | Status |
 |-----|-------|--------|
@@ -49,7 +52,7 @@ Complete-Generative-AI-Course/
 | 5 | Functions (Lambda, Map, Filter) | ✅ Done |
 | 6 | Modules and Standard Library | ✅ Done |
 | 7 | File Handling | ✅ Done |
-| 8 | Error Handling | ⏳ Pending |
+| 8 | Exception Handling | ✅ Done |
 | 9 | Object-Oriented Programming | ⏳ Pending |
 | 10 | Introduction to LangChain | ⏳ Pending |
 | 11 | Prompts and Prompt Templates | ⏳ Pending |
