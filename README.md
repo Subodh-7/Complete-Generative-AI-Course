@@ -18,16 +18,24 @@ Complete-Generative-AI-Course/
 └── Day 3/
     └── Data_Structures.ipynb  # Day 3: Data Structures (✅ Done)
 └── Day 4/
-    └── Functions_and_Modules.ipynb  # Day 4: Functions and Modules (⏳ Pending)
+    └── Data Structures/
+        ├── Dictionaries.ipynb  # Day 4: Data Structures - Dictionaries (✅ Done)
+        └── ListExamples.ipynb  # Day 4: Data Structures - Lists (✅ Done)
 └── Day 5/
-    └── Functions.ipynb  # Day 5: Python Functions - Lambda, Map and Filter (✅ Done)
-        ├── Lambda.ipynb
+    └── Functions/
+        ├── functions.ipynb   # Day 5: Functions - Lambda, Map and Filter (✅ Done)
+        ├── examplesFunctions.ipynb
         ├── Mapsfunction.ipynb
+        ├── Lambda.ipynb
         └── filterfunction.ipynb
 └── Day 6/
     └── Modules/       # Day 6: Python Modules and Standard Library (✅ Done)
         ├── import.ipynb           # Importing modules, packages
         └── Standardlibrary.ipynb  # Standard library overview
+└── Day 7/
+    └── File Handling/  # Day 7: File Handling (✅ Done)
+        ├── fileoperation.ipynb
+        └── filepath.ipynb
 ```
 
 ## Progress Tracker (23 Days)
@@ -37,27 +45,28 @@ Complete-Generative-AI-Course/
 | 1 | Python Variables and Operators | ✅ Done |
 | 2 | Control Flow and Loops | ✅ Done |
 | 3 | Data Structures (Lists, Tuples, Dictionaries) | ✅ Done |
-| 4 | Functions and Modules | ⏳ Pending |
-| 5 | Functions | ✅ Done |
+| 4 | Data Structures (Lists, Dictionaries) | ✅ Done |
+| 5 | Functions (Lambda, Map, Filter) | ✅ Done |
 | 6 | Modules and Standard Library | ✅ Done |
-| 7 | Error Handling | ⏳ Pending |
-| 8 | Object-Oriented Programming | ⏳ Pending
-| 8 | Introduction to LangChain | ⏳ Pending |
-| 9 | Prompts and Prompt Templates | ⏳ Pending |
-| 10 | Models (LLMs & Chat Models) | ⏳ Pending |
-| 11 | Chains | ⏳ Pending |
-| 12 | Agents and Tools | ⏳ Pending |
-| 13 | Memory and State | ⏳ Pending |
-| 14 | Indexes and Retrievers | ⏳ Pending |
-| 15 | Embeddings | ⏳ Pending |
-| 16 | Vector Stores | ⏳ Pending |
-| 17 | Question Answering | ⏳ Pending |
-| 18 | Text Summarization | ⏳ Pending |
-| 19 | Hugging Face Transformers | ⏳ Pending |
-| 20 | Fine-tuning and Inference | ⏳ Pending |
-| 21 | Building a Generative AI App | ⏳ Pending |
-| 22 | Evaluation and Testing | ⏳ Pending |
-| 23 | Final Project & Deployment | ⏳ Pending |
+| 7 | File Handling | ✅ Done |
+| 8 | Error Handling | ⏳ Pending |
+| 9 | Object-Oriented Programming | ⏳ Pending |
+| 10 | Introduction to LangChain | ⏳ Pending |
+| 11 | Prompts and Prompt Templates | ⏳ Pending |
+| 12 | Models (LLMs & Chat Models) | ⏳ Pending |
+| 13 | Chains | ⏳ Pending |
+| 14 | Agents and Tools | ⏳ Pending |
+| 15 | Memory and State | ⏳ Pending |
+| 16 | Indexes and Retrievers | ⏳ Pending |
+| 17 | Embeddings | ⏳ Pending |
+| 18 | Vector Stores | ⏳ Pending |
+| 19 | Question Answering | ⏳ Pending |
+| 20 | Text Summarization | ⏳ Pending |
+| 21 | Hugging Face Transformers | ⏳ Pending |
+| 22 | Fine-tuning and Inference | ⏳ Pending |
+| 23 | Building a Generative AI App | ⏳ Pending |
+| 24 | Evaluation and Testing | ⏳ Pending |
+| 25 | Final Project & Deployment | ⏳ Pending |
 
 ## Technologies Used
 - **Python** - Core programming language
