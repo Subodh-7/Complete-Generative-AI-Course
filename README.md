@@ -11,34 +11,60 @@ The goal is to track daily progress, document learnings, and provide a reproduci
 ## Folder Structure
 ```
 Complete-Generative-AI-Course/
-└── Day 1/
-    └── Variables.ipynb  # Day 1: Python Variables and Operators (✅ Done)
-└── Day 2/
-    └── Loops.ipynb       # Day 2: Control Flow and Loops (✅ Done)
-└── Day 3/
-    └── Data_Structures.ipynb  # Day 3: Data Structures (✅ Done)
-└── Day 4/
-    └── Data Structures/
-        ├── Dictionaries.ipynb  # Day 4: Data Structures - Dictionaries (✅ Done)
-        └── ListExamples.ipynb  # Day 4: Data Structures - Lists (✅ Done)
-└── Day 5/
-    └── Functions/
-        ├── functions.ipynb   # Day 5: Functions - Lambda, Map and Filter (✅ Done)
-        ├── examplesFunctions.ipynb
-        ├── Mapsfunction.ipynb
-        ├── Lambda.ipynb
-        └── filterfunction.ipynb
-└── Day 6/
-    └── Modules/       # Day 6: Python Modules and Standard Library (✅ Done)
-        ├── import.ipynb           # Importing modules, packages
-        └── Standardlibrary.ipynb  # Standard library overview
-└── Day 7/
-    └── File Handling/  # Day 7: File Handling (✅ Done)
-        ├── fileoperation.ipynb
-        └── filepath.ipynb
-└── Day 8/
-    └── Exception Handling/  # Day 8: Exception Handling (✅ Done)
-        └── exception.ipynb
+├── .gitignore
+├── README.md
+├── app.py
+├── requirements.txt
+├── Day 1/
+│   ├── Variables.ipynb        # Day 1: Python Variables and Operators (✅ Done)
+│   └── test.ipynb
+├── Day 2/
+│   ├── ConditionalStatements.ipynb  # Day 2: Control Flow - Conditionals (✅ Done)
+│   ├── Datatypes.ipynb              # Day 2: Data Types (✅ Done)
+│   ├── Loops.ipynb                  # Day 2: Control Flow and Loops (✅ Done)
+│   └── Operators.ipynb              # Day 2: Operators (✅ Done)
+├── Day 3/
+│   └── Data Structures/
+│       ├── Lists.ipynb      # Day 3: Data Structures - Lists (✅ Done)
+│       └── Tuples.ipynb     # Day 3: Data Structures - Tuples (✅ Done)
+├── Day 4/
+│   └── Data Structures/
+│       ├── Dictionaries.ipynb  # Day 4: Data Structures - Dictionaries (✅ Done)
+│       └── ListExamples.ipynb  # Day 4: Data Structures - Lists (✅ Done)
+├── Day 5/
+│   └── Functions/
+│       ├── functions.ipynb       # Day 5: Functions - Lambda, Map and Filter (✅ Done)
+│       ├── examplesFunctions.ipynb
+│       ├── Mapsfunction.ipynb
+│       ├── Lambda.ipynb
+│       ├── filterfunction.ipynb
+│       └── sample.txt
+├── Day 6/
+│   └── Modules/        # Day 6: Python Modules and Standard Library (✅ Done)
+│       ├── import.ipynb           # Importing modules, packages
+│       ├── Standardlibrary.ipynb  # Standard library overview
+│       ├── destination.txt
+│       ├── example.csv
+│       ├── source.txt
+│       ├── test.py
+│       └── package/
+│           ├── __init__.py
+│           ├── maths.py
+│           └── subpackages/
+│               ├── __init__.py
+│               └── mult.py
+├── Day 7/
+│   └── File Handling/  # Day 7: File Handling (✅ Done)
+│       ├── fileoperation.ipynb
+│       ├── filepath.ipynb
+│       ├── example.txt
+│       ├── example.bin
+│       ├── destination.txt
+│       └── output.txt
+├── Day 8/
+│   └── Exception Handling/  # Day 8: Exception Handling (✅ Done)
+│       ├── exception.ipynb
+│       └── example1.txt
 ```
 
 ## Progress Tracker (25 Days)
@@ -70,6 +96,20 @@ Complete-Generative-AI-Course/
 | 23 | Building a Generative AI App | ⏳ Pending |
 | 24 | Evaluation and Testing | ⏳ Pending |
 | 25 | Final Project & Deployment | ⏳ Pending |
+
+## Latest Progress
+
+**Date:** 2026-08-05
+
+**Newly Completed Day(s):** Day 8 - Exception Handling (completed on 2026-08-05 via commit `cd4e7ec`)
+
+**Files Added in Latest Session:**
+- Day 8/Exception Handling/exception.ipynb
+- Day 8/Exception Handling/example1.txt
+
+**Current Progress:** 8/25 Days Completed (32%)
+
+**Next Topic:** Day 9 - Object-Oriented Programming (OOP in Python: Classes, Objects, Inheritance, Polymorphism, Encapsulation)
 
 ## Technologies Used
 - **Python** - Core programming language
