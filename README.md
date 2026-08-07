@@ -79,7 +79,7 @@ Complete-Generative-AI-Course/
 | 6 | Modules and Standard Library | ✅ Done |
 | 7 | File Handling | ✅ Done |
 | 8 | Exception Handling | ✅ Done |
-| 9 | Object-Oriented Programming | ⏳ Pending |
+| 9 | Object-Oriented Programming | ✅ Done |
 | 10 | Introduction to LangChain | ⏳ Pending |
 | 11 | Prompts and Prompt Templates | ⏳ Pending |
 | 12 | Models (LLMs & Chat Models) | ⏳ Pending |
